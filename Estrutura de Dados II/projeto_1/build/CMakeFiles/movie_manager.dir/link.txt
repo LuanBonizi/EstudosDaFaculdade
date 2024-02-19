@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/movie_manager.dir/main/main.c.o CMakeFiles/movie_manager.dir/implementations/Dados.c.o CMakeFiles/movie_manager.dir/implementations/IdxPrimario.c.o CMakeFiles/movie_manager.dir/implementations/IdxSecundario.c.o -o movie_manager 
